@@ -275,14 +275,27 @@ summary:focus-visible,
   margin-bottom: clamp(48px, 9vh, 92px);
 }
 
+.seed-place { min-width: 0; }
+.seed-place-right { text-align: right; }
 .seed-city {
   margin: 0;
-  font-size: clamp(2.6rem, 8vw, 7rem);
-  line-height: .86;
+  font-size: clamp(2.25rem, 6.4vw, 5.7rem);
+  line-height: .9;
   color: var(--ink-bright);
-  overflow-wrap: anywhere;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
 }
-.seed-city:last-child { text-align: right; }
+.seed-country {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: clamp(.68rem, 1.2vw, .88rem);
+  font-weight: 650;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.seed-place-right .seed-city,
+.seed-place-right .seed-country { text-align: right; }
 .seed-plus {
   color: var(--accent);
   font-family: var(--condensed);
@@ -430,6 +443,9 @@ summary:focus-visible,
 .metric:last-child { border-right: 0; }
 .metric-label { color: var(--muted); font-size: .66rem; letter-spacing: .12em; text-transform: uppercase; }
 .metric-value { margin-top: 9px; color: var(--ink-bright); font-size: clamp(1.18rem, 2vw, 1.55rem); font-variant-numeric: tabular-nums; }
+.rank-metric { background: rgba(216, 217, 210, .035); }
+.rank-metric .metric-label { color: var(--ink); font-weight: 800; }
+.rank-metric .metric-value { color: var(--accent); font-weight: 900; font-size: clamp(1.32rem, 2.3vw, 1.78rem); }
 
 .explanation-grid {
   display: grid;
@@ -440,22 +456,23 @@ summary:focus-visible,
 .explanation-list h3 { margin: 0 0 14px; color: var(--muted); font-size: .7rem; letter-spacing: .15em; text-transform: uppercase; }
 .explanation-list ol { margin: 0; padding: 0; list-style: none; }
 .explanation-list li {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-  padding: 9px 0;
+  display: grid;
+  grid-template-columns: minmax(120px, .9fr) minmax(0, 1.35fr);
+  gap: 18px;
+  align-items: center;
+  padding: 10px 0;
   border-bottom: 1px solid rgba(216, 217, 210, .09);
   font-size: .91rem;
 }
-.explanation-list .field-score { color: var(--muted); font-variant-numeric: tabular-nums; }
+.field-label { color: var(--ink); }
+.field-comparison { display: flex; flex-direction: column; align-items: flex-end; min-width: 0; font-variant-numeric: tabular-nums; }
+.field-comparison strong { color: var(--ink-bright); font-weight: 750; }
+.field-seeds { margin-top: 2px; color: var(--muted); font-size: .72rem; line-height: 1.35; max-width: 100%; }
 
 .best-answer {
   border-top: 1px solid var(--accent);
   padding-top: 16px;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 22px;
-  align-items: end;
+  display: block;
 }
 .best-answer-name {
   margin: 6px 0 0;
@@ -465,7 +482,6 @@ summary:focus-visible,
   text-transform: uppercase;
   color: var(--ink-bright);
 }
-.best-answer-score { color: var(--accent); font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
 
 .final-screen { padding: 8vh 0; }
 .final-header { border-bottom: 1px solid var(--line-strong); padding-bottom: 28px; }
@@ -538,8 +554,11 @@ summary:focus-visible,
     align-items: start;
     margin-bottom: 42px;
   }
+  .seed-place-right { text-align: left; }
   .seed-city,
-  .seed-city:last-child { text-align: left; font-size: clamp(2.65rem, 16vw, 4.7rem); }
+  .seed-place-right .seed-city { text-align: left; font-size: clamp(2.1rem, 11vw, 3.7rem); }
+  .seed-country,
+  .seed-place-right .seed-country { text-align: left; margin-top: 6px; }
   .seed-plus { font-size: 1.7rem; }
   .city-input { font-size: 1.45rem; min-height: 54px; }
   .primary-control-row { min-height: 62px; }
@@ -552,8 +571,7 @@ summary:focus-visible,
   .metric + .metric { padding: 14px 0; border-right: 0; border-bottom: 1px solid var(--line); min-height: 70px; }
   .metric:last-child { border-bottom: 0; }
   .explanation-grid { grid-template-columns: 1fr; gap: 28px; }
-  .best-answer { grid-template-columns: 1fr; }
-  .best-answer-score { justify-self: start; }
+  .best-answer { display: block; }
 
   .final-screen { padding: 5vh 0; }
   .final-round-row { grid-template-columns: 30px minmax(0, 1fr); padding: 16px 0; min-height: 0; }
@@ -588,4 +606,10 @@ summary:focus-visible,
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
+}
+
+@media (max-width: 520px) {
+  .seed-city { font-size: clamp(1.85rem, 10vw, 3.35rem); }
+  .explanation-list li { grid-template-columns: 1fr; gap: 5px; }
+  .field-comparison { align-items: flex-start; }
 }
