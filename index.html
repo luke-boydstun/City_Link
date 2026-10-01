@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#080A09">
+  <title>City Link</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <main class="app-shell" id="app" aria-busy="true">
+    <section class="loading-screen" id="loading-screen" aria-live="polite">
+      <p class="eyebrow">CITY LINK</p>
+      <p class="loading-copy">Loading city data…</p>
+    </section>
+
+    <section class="fatal-screen" id="fatal-screen" hidden role="alert">
+      <p class="eyebrow">INITIALIZATION ERROR</p>
+      <h1>City Link could not start.</h1>
+      <p id="fatal-message"></p>
+      <p class="muted">Serve this folder through a static HTTP server so the browser can load the two JSON files.</p>
+    </section>
+
+    <section class="welcome-screen" id="welcome-screen" hidden>
+      <div class="welcome-mark" aria-hidden="true"></div>
+      <p class="eyebrow">STATISTICAL CITY ASSOCIATION</p>
+      <h1 class="display-title">CITY LINK</h1>
+      <p class="welcome-copy">Two cities. Find the city that best matches both.</p>
+      <p class="welcome-copy muted">Five rounds. One guess each.</p>
+      <div class="welcome-actions">
+        <button class="button button-primary" id="daily-button" type="button">Daily Game</button>
+        <button class="button" id="infinite-button" type="button">Infinite Mode</button>
+      </div>
+      <details class="method-note">
+        <summary>How similarity works</summary>
+        <p>Cities are compared across environment, scale, urban form, economy, culture, history, and connectivity. Your answer is ranked against every eligible city, and your round score is based on that rank.</p>
+      </details>
+    </section>
+
+    <section class="game-screen" id="game-screen" hidden>
+      <header class="score-ribbon" aria-label="Game progress">
+        <div class="ribbon-brand">CITY LINK</div>
+        <div class="ribbon-score"><span id="cumulative-score">0</span> / 5000</div>
+        <div class="ribbon-progress" id="progress-squares" aria-label="Round progress"></div>
+        <div class="ribbon-round" id="round-indicator">1 / 5</div>
+        <div class="ribbon-date" id="ribbon-date"></div>
+      </header>
+
+      <section class="game-canvas" id="game-canvas" aria-live="off"></section>
+
+      <div class="primary-control-row">
+        <button class="button button-primary primary-control" id="primary-control" type="button">Submit</button>
+      </div>
+    </section>
+
+    <section class="final-screen" id="final-screen" hidden>
+      <div class="final-header">
+        <p class="eyebrow" id="final-mode">DAILY GAME</p>
+        <h1 class="final-title">SESSION RECORD</h1>
+        <p class="final-date" id="final-date"></p>
+      </div>
+      <div class="final-rounds" id="final-rounds"></div>
+      <div class="final-total">
+        <span>TOTAL</span>
+        <strong id="final-total-score">0 / 5000</strong>
+      </div>
+      <div class="final-actions">
+        <button class="button button-primary" id="copy-score-button" type="button">Copy Score</button>
+        <button class="button" id="new-session-button" type="button">New Session</button>
+      </div>
+      <p class="copy-status" id="copy-status" aria-live="polite"></p>
+    </section>
+  </main>
+</body>
+</html>

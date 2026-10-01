@@ -1,0 +1,3402 @@
+[
+  {
+    "identity": {
+      "city": "New York City",
+      "country": "United States",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 40.71,
+      "elevation_m": 10,
+      "avg_annual_temp_c": 13.1,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": 0.5,
+      "annual_precipitation_mm": 1250,
+      "avg_relative_humidity_pct": 65,
+      "annual_sunshine_hours": 2535,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "ocean/estuary"
+    },
+    "scale": {
+      "city_population": 8330000,
+      "metro_population": 19800000,
+      "metro_density_per_km2": 1800,
+      "metro_area_km2": 11000,
+      "population_growth_rate_pct": 0.4,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 5.8,
+      "tall_building_density": 8.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 54,
+      "transit_modal_share_pct": 32,
+      "walking_modal_share_pct": 10,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 399,
+      "street_intersection_density": 115
+    },
+    "economy": {
+      "gdp_per_capita_usd": 95000,
+      "metro_gdp_usd": 1900000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 10,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 7
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Spanish",
+      "language_family": "Indo-European",
+      "cultural_region": "Anglo-American"
+    },
+    "history": {
+      "founding_year": 1624,
+      "historical_era": "Early modern",
+      "capital_status": "state/regional capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 135000000,
+      "international_air_destinations": 190,
+      "foreign_born_population_pct": 37,
+      "port_importance": 8,
+      "international_tourist_arrivals_annual": 13000000
+    }
+  },
+  {
+    "identity": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "subregion": "Northern Europe"
+    },
+    "environment": {
+      "latitude": 51.51,
+      "elevation_m": 35,
+      "avg_annual_temp_c": 11.8,
+      "avg_summer_high_c": 23.0,
+      "avg_winter_low_c": 2.5,
+      "annual_precipitation_mm": 620,
+      "avg_relative_humidity_pct": 78,
+      "annual_sunshine_hours": 1675,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 55,
+      "terrain_type": "lowland river basin",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 9000000,
+      "metro_population": 15000000,
+      "metro_density_per_km2": 5600,
+      "metro_area_km2": 2700,
+      "population_growth_rate_pct": 0.8,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 22.0,
+      "tall_building_density": 7.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 30,
+      "transit_modal_share_pct": 37,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 4,
+      "rapid_transit_network_km": 402,
+      "street_intersection_density": 125
+    },
+    "economy": {
+      "gdp_per_capita_usd": 78000,
+      "metro_gdp_usd": 950000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 10,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Polish",
+      "language_family": "Indo-European",
+      "cultural_region": "British"
+    },
+    "history": {
+      "founding_year": 43,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 180000000,
+      "international_air_destinations": 220,
+      "foreign_born_population_pct": 37,
+      "port_importance": 2,
+      "international_tourist_arrivals_annual": 20000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "subregion": "Western Europe"
+    },
+    "environment": {
+      "latitude": 48.86,
+      "elevation_m": 35,
+      "avg_annual_temp_c": 12.3,
+      "avg_summer_high_c": 25.5,
+      "avg_winter_low_c": 2.8,
+      "annual_precipitation_mm": 640,
+      "avg_relative_humidity_pct": 77,
+      "annual_sunshine_hours": 1720,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 175,
+      "terrain_type": "river basin",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 2100000,
+      "metro_population": 11100000,
+      "metro_density_per_km2": 3900,
+      "metro_area_km2": 2850,
+      "population_growth_rate_pct": 0.4,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 16.5,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 25,
+      "transit_modal_share_pct": 42,
+      "walking_modal_share_pct": 28,
+      "cycling_modal_share_pct": 5,
+      "rapid_transit_network_km": 315,
+      "street_intersection_density": 140
+    },
+    "economy": {
+      "gdp_per_capita_usd": 70000,
+      "metro_gdp_usd": 780000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 9,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "French",
+      "secondary_language": "Arabic",
+      "language_family": "Indo-European",
+      "cultural_region": "French"
+    },
+    "history": {
+      "founding_year": -52,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 105000000,
+      "international_air_destinations": 190,
+      "foreign_born_population_pct": 25,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 19000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Asia",
+      "subregion": "Eastern Asia"
+    },
+    "environment": {
+      "latitude": 35.68,
+      "elevation_m": 40,
+      "avg_annual_temp_c": 16.4,
+      "avg_summer_high_c": 30.5,
+      "avg_winter_low_c": 2.5,
+      "annual_precipitation_mm": 1530,
+      "avg_relative_humidity_pct": 70,
+      "annual_sunshine_hours": 1900,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "bay/ocean"
+    },
+    "scale": {
+      "city_population": 14000000,
+      "metro_population": 37000000,
+      "metro_density_per_km2": 6300,
+      "metro_area_km2": 5900,
+      "population_growth_rate_pct": -0.2,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 29.0,
+      "tall_building_density": 7.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 18,
+      "transit_modal_share_pct": 51,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 5,
+      "rapid_transit_network_km": 305,
+      "street_intersection_density": 130
+    },
+    "economy": {
+      "gdp_per_capita_usd": 55000,
+      "metro_gdp_usd": 2000000000000,
+      "manufacturing_intensity": 7,
+      "finance_intensity": 9,
+      "technology_research_intensity": 10,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 8
+    },
+    "culture": {
+      "primary_language": "Japanese",
+      "secondary_language": "English",
+      "language_family": "Japonic",
+      "cultural_region": "Japanese"
+    },
+    "history": {
+      "founding_year": 1457,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 125000000,
+      "international_air_destinations": 140,
+      "foreign_born_population_pct": 3,
+      "port_importance": 8,
+      "international_tourist_arrivals_annual": 7000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Shanghai",
+      "country": "China",
+      "region": "Asia",
+      "subregion": "Eastern Asia"
+    },
+    "environment": {
+      "latitude": 31.23,
+      "elevation_m": 4,
+      "avg_annual_temp_c": 17.1,
+      "avg_summer_high_c": 32.0,
+      "avg_winter_low_c": 2.0,
+      "annual_precipitation_mm": 1160,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 1900,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "river delta",
+      "water_setting": "river/sea"
+    },
+    "scale": {
+      "city_population": 24900000,
+      "metro_population": 30000000,
+      "metro_density_per_km2": 3900,
+      "metro_area_km2": 7700,
+      "population_growth_rate_pct": 0.7,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 2.1,
+      "tall_building_density": 8.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 22,
+      "transit_modal_share_pct": 43,
+      "walking_modal_share_pct": 28,
+      "cycling_modal_share_pct": 4,
+      "rapid_transit_network_km": 802,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 32000,
+      "metro_gdp_usd": 1100000000000,
+      "manufacturing_intensity": 9,
+      "finance_intensity": 8,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 10
+    },
+    "culture": {
+      "primary_language": "Mandarin Chinese",
+      "secondary_language": "Shanghainese",
+      "language_family": "Sino-Tibetan",
+      "cultural_region": "East Chinese"
+    },
+    "history": {
+      "founding_year": 746,
+      "historical_era": "Medieval",
+      "capital_status": "municipality-level capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 120000000,
+      "international_air_destinations": 140,
+      "foreign_born_population_pct": 1,
+      "port_importance": 10,
+      "international_tourist_arrivals_annual": 9000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Beijing",
+      "country": "China",
+      "region": "Asia",
+      "subregion": "Eastern Asia"
+    },
+    "environment": {
+      "latitude": 39.9,
+      "elevation_m": 44,
+      "avg_annual_temp_c": 13.5,
+      "avg_summer_high_c": 31.0,
+      "avg_winter_low_c": -8.0,
+      "annual_precipitation_mm": 570,
+      "avg_relative_humidity_pct": 55,
+      "annual_sunshine_hours": 2650,
+      "koppen_climate": "Dwa",
+      "distance_to_coast_km": 160,
+      "terrain_type": "inland plain/basin",
+      "water_setting": "river/reservoir"
+    },
+    "scale": {
+      "city_population": 21800000,
+      "metro_population": 24000000,
+      "metro_density_per_km2": 3000,
+      "metro_area_km2": 8000,
+      "population_growth_rate_pct": -0.1,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 1.7,
+      "tall_building_density": 7.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 35,
+      "transit_modal_share_pct": 45,
+      "walking_modal_share_pct": 18,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 807,
+      "street_intersection_density": 105
+    },
+    "economy": {
+      "gdp_per_capita_usd": 30000,
+      "metro_gdp_usd": 900000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 10,
+      "technology_research_intensity": 10,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Mandarin Chinese",
+      "secondary_language": "English",
+      "language_family": "Sino-Tibetan",
+      "cultural_region": "North Chinese"
+    },
+    "history": {
+      "founding_year": 1045,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 100000000,
+      "international_air_destinations": 130,
+      "foreign_born_population_pct": 1,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 4000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Hong Kong",
+      "country": "China",
+      "region": "Asia",
+      "subregion": "Eastern Asia"
+    },
+    "environment": {
+      "latitude": 22.32,
+      "elevation_m": 30,
+      "avg_annual_temp_c": 23.6,
+      "avg_summer_high_c": 31.0,
+      "avg_winter_low_c": 15.5,
+      "annual_precipitation_mm": 2400,
+      "avg_relative_humidity_pct": 78,
+      "annual_sunshine_hours": 1840,
+      "koppen_climate": "Cwa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "hilly coastal",
+      "water_setting": "harbor/ocean"
+    },
+    "scale": {
+      "city_population": 7500000,
+      "metro_population": 7500000,
+      "metro_density_per_km2": 6800,
+      "metro_area_km2": 1100,
+      "population_growth_rate_pct": 0.1,
+      "national_city_rank": 6,
+      "share_of_national_population_pct": 0.5,
+      "tall_building_density": 9.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 12,
+      "transit_modal_share_pct": 55,
+      "walking_modal_share_pct": 30,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 271,
+      "street_intersection_density": 135
+    },
+    "economy": {
+      "gdp_per_capita_usd": 52000,
+      "metro_gdp_usd": 390000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 10,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 10
+    },
+    "culture": {
+      "primary_language": "Cantonese",
+      "secondary_language": "English",
+      "language_family": "Sino-Tibetan",
+      "cultural_region": "Cantonese"
+    },
+    "history": {
+      "founding_year": 1841,
+      "historical_era": "Modern",
+      "capital_status": "special administrative region",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 71000000,
+      "international_air_destinations": 150,
+      "foreign_born_population_pct": 41,
+      "port_importance": 10,
+      "international_tourist_arrivals_annual": 5000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "environment": {
+      "latitude": 1.35,
+      "elevation_m": 15,
+      "avg_annual_temp_c": 27.9,
+      "avg_summer_high_c": 31.5,
+      "avg_winter_low_c": 24.0,
+      "annual_precipitation_mm": 2300,
+      "avg_relative_humidity_pct": 84,
+      "annual_sunshine_hours": 2020,
+      "koppen_climate": "Af",
+      "distance_to_coast_km": 0,
+      "terrain_type": "low coastal plain",
+      "water_setting": "strait/ocean"
+    },
+    "scale": {
+      "city_population": 5900000,
+      "metro_population": 5900000,
+      "metro_density_per_km2": 8000,
+      "metro_area_km2": 735,
+      "population_growth_rate_pct": 1.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 100.0,
+      "tall_building_density": 9.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 29,
+      "transit_modal_share_pct": 49,
+      "walking_modal_share_pct": 14,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 230,
+      "street_intersection_density": 125
+    },
+    "economy": {
+      "gdp_per_capita_usd": 85000,
+      "metro_gdp_usd": 500000000000,
+      "manufacturing_intensity": 6,
+      "finance_intensity": 10,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 10
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Mandarin Chinese",
+      "language_family": "Mixed",
+      "cultural_region": "Southeast Asian"
+    },
+    "history": {
+      "founding_year": 1819,
+      "historical_era": "Modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 68000000,
+      "international_air_destinations": 150,
+      "foreign_born_population_pct": 43,
+      "port_importance": 10,
+      "international_tourist_arrivals_annual": 16000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Asia",
+      "subregion": "Western Asia"
+    },
+    "environment": {
+      "latitude": 25.2,
+      "elevation_m": 16,
+      "avg_annual_temp_c": 28.0,
+      "avg_summer_high_c": 41.0,
+      "avg_winter_low_c": 14.0,
+      "annual_precipitation_mm": 95,
+      "avg_relative_humidity_pct": 62,
+      "annual_sunshine_hours": 3570,
+      "koppen_climate": "BWh",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal desert",
+      "water_setting": "gulf"
+    },
+    "scale": {
+      "city_population": 3600000,
+      "metro_population": 4100000,
+      "metro_density_per_km2": 1100,
+      "metro_area_km2": 3700,
+      "population_growth_rate_pct": 3.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 36.0,
+      "tall_building_density": 10.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 72,
+      "transit_modal_share_pct": 17,
+      "walking_modal_share_pct": 8,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 90,
+      "street_intersection_density": 75
+    },
+    "economy": {
+      "gdp_per_capita_usd": 65000,
+      "metro_gdp_usd": 210000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 8,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "Arabic",
+      "secondary_language": "English",
+      "language_family": "Afro-Asiatic",
+      "cultural_region": "Gulf Arab"
+    },
+    "history": {
+      "founding_year": 1833,
+      "historical_era": "Modern",
+      "capital_status": "emirate capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 90000000,
+      "international_air_destinations": 260,
+      "foreign_born_population_pct": 88,
+      "port_importance": 9,
+      "international_tourist_arrivals_annual": 18000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Mumbai",
+      "country": "India",
+      "region": "Asia",
+      "subregion": "Southern Asia"
+    },
+    "environment": {
+      "latitude": 19.08,
+      "elevation_m": 14,
+      "avg_annual_temp_c": 27.2,
+      "avg_summer_high_c": 33.0,
+      "avg_winter_low_c": 17.0,
+      "annual_precipitation_mm": 2400,
+      "avg_relative_humidity_pct": 78,
+      "annual_sunshine_hours": 2550,
+      "koppen_climate": "Aw",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal peninsula",
+      "water_setting": "arabian sea"
+    },
+    "scale": {
+      "city_population": 12500000,
+      "metro_population": 24000000,
+      "metro_density_per_km2": 28000,
+      "metro_area_km2": 850,
+      "population_growth_rate_pct": 1.2,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 1.7,
+      "tall_building_density": 8.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 22,
+      "transit_modal_share_pct": 48,
+      "walking_modal_share_pct": 28,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 59,
+      "street_intersection_density": 165
+    },
+    "economy": {
+      "gdp_per_capita_usd": 15000,
+      "metro_gdp_usd": 400000000000,
+      "manufacturing_intensity": 7,
+      "finance_intensity": 9,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "Marathi",
+      "secondary_language": "Hindi",
+      "language_family": "Indo-European",
+      "cultural_region": "Western Indian"
+    },
+    "history": {
+      "founding_year": 1507,
+      "historical_era": "Early modern",
+      "capital_status": "state capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 52000000,
+      "international_air_destinations": 110,
+      "foreign_born_population_pct": 10,
+      "port_importance": 9,
+      "international_tourist_arrivals_annual": 7000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Delhi",
+      "country": "India",
+      "region": "Asia",
+      "subregion": "Southern Asia"
+    },
+    "environment": {
+      "latitude": 28.61,
+      "elevation_m": 216,
+      "avg_annual_temp_c": 25.0,
+      "avg_summer_high_c": 40.0,
+      "avg_winter_low_c": 7.0,
+      "annual_precipitation_mm": 800,
+      "avg_relative_humidity_pct": 55,
+      "annual_sunshine_hours": 2690,
+      "koppen_climate": "BSh",
+      "distance_to_coast_km": 1000,
+      "terrain_type": "inland plain",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 19000000,
+      "metro_population": 33000000,
+      "metro_density_per_km2": 12500,
+      "metro_area_km2": 2650,
+      "population_growth_rate_pct": 2.1,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 2.3,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 36,
+      "transit_modal_share_pct": 30,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 390,
+      "street_intersection_density": 140
+    },
+    "economy": {
+      "gdp_per_capita_usd": 12000,
+      "metro_gdp_usd": 400000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 8,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Hindi",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "North Indian"
+    },
+    "history": {
+      "founding_year": 736,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 74000000,
+      "international_air_destinations": 100,
+      "foreign_born_population_pct": 2,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "Asia",
+      "subregion": "Eastern Asia"
+    },
+    "environment": {
+      "latitude": 37.57,
+      "elevation_m": 38,
+      "avg_annual_temp_c": 12.8,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": -6.0,
+      "annual_precipitation_mm": 1450,
+      "avg_relative_humidity_pct": 66,
+      "annual_sunshine_hours": 2050,
+      "koppen_climate": "Dwa",
+      "distance_to_coast_km": 35,
+      "terrain_type": "river basin/hills",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 9400000,
+      "metro_population": 26000000,
+      "metro_density_per_km2": 16200,
+      "metro_area_km2": 1600,
+      "population_growth_rate_pct": -0.5,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 51.0,
+      "tall_building_density": 7.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 24,
+      "transit_modal_share_pct": 55,
+      "walking_modal_share_pct": 18,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 355,
+      "street_intersection_density": 150
+    },
+    "economy": {
+      "gdp_per_capita_usd": 48000,
+      "metro_gdp_usd": 1000000000000,
+      "manufacturing_intensity": 7,
+      "finance_intensity": 8,
+      "technology_research_intensity": 10,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Korean",
+      "secondary_language": "English",
+      "language_family": "Koreanic",
+      "cultural_region": "Korean"
+    },
+    "history": {
+      "founding_year": 18,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 78000000,
+      "international_air_destinations": 135,
+      "foreign_born_population_pct": 4,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "region": "Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "environment": {
+      "latitude": 13.76,
+      "elevation_m": 1.5,
+      "avg_annual_temp_c": 28.6,
+      "avg_summer_high_c": 35.0,
+      "avg_winter_low_c": 22.0,
+      "annual_precipitation_mm": 1650,
+      "avg_relative_humidity_pct": 73,
+      "annual_sunshine_hours": 2630,
+      "koppen_climate": "Aw",
+      "distance_to_coast_km": 25,
+      "terrain_type": "river delta/plain",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 10500000,
+      "metro_population": 17500000,
+      "metro_density_per_km2": 5300,
+      "metro_area_km2": 3300,
+      "population_growth_rate_pct": 1.3,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 24.0,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 47,
+      "transit_modal_share_pct": 26,
+      "walking_modal_share_pct": 22,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 211,
+      "street_intersection_density": 115
+    },
+    "economy": {
+      "gdp_per_capita_usd": 19000,
+      "metro_gdp_usd": 330000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 6,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 7
+    },
+    "culture": {
+      "primary_language": "Thai",
+      "secondary_language": "English",
+      "language_family": "Kra-Dai",
+      "cultural_region": "Thai"
+    },
+    "history": {
+      "founding_year": 1782,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 95000000,
+      "international_air_destinations": 140,
+      "foreign_born_population_pct": 7,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 22000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "region": "Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "environment": {
+      "latitude": -6.21,
+      "elevation_m": 8,
+      "avg_annual_temp_c": 27.7,
+      "avg_summer_high_c": 32.0,
+      "avg_winter_low_c": 23.0,
+      "annual_precipitation_mm": 1800,
+      "avg_relative_humidity_pct": 80,
+      "annual_sunshine_hours": 2100,
+      "koppen_climate": "Af",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "java sea"
+    },
+    "scale": {
+      "city_population": 11000000,
+      "metro_population": 34000000,
+      "metro_density_per_km2": 4300,
+      "metro_area_km2": 7900,
+      "population_growth_rate_pct": 1.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 12.0,
+      "tall_building_density": 6.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 55,
+      "transit_modal_share_pct": 20,
+      "walking_modal_share_pct": 20,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 42,
+      "street_intersection_density": 100
+    },
+    "economy": {
+      "gdp_per_capita_usd": 13000,
+      "metro_gdp_usd": 450000000000,
+      "manufacturing_intensity": 6,
+      "finance_intensity": 6,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 6,
+      "logistics_port_intensity": 8
+    },
+    "culture": {
+      "primary_language": "Indonesian",
+      "secondary_language": "Javanese",
+      "language_family": "Austronesian",
+      "cultural_region": "Indonesian"
+    },
+    "history": {
+      "founding_year": 1527,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 65000000,
+      "international_air_destinations": 85,
+      "foreign_born_population_pct": 4,
+      "port_importance": 8,
+      "international_tourist_arrivals_annual": 3500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand"
+    },
+    "environment": {
+      "latitude": -33.87,
+      "elevation_m": 58,
+      "avg_annual_temp_c": 18.0,
+      "avg_summer_high_c": 26.0,
+      "avg_winter_low_c": 8.0,
+      "annual_precipitation_mm": 1210,
+      "avg_relative_humidity_pct": 65,
+      "annual_sunshine_hours": 2640,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal basin/hills",
+      "water_setting": "harbor/ocean"
+    },
+    "scale": {
+      "city_population": 5300000,
+      "metro_population": 5300000,
+      "metro_density_per_km2": 430,
+      "metro_area_km2": 12300,
+      "population_growth_rate_pct": 1.5,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 20.0,
+      "tall_building_density": 3.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 62,
+      "transit_modal_share_pct": 20,
+      "walking_modal_share_pct": 14,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 36,
+      "street_intersection_density": 75
+    },
+    "economy": {
+      "gdp_per_capita_usd": 80000,
+      "metro_gdp_usd": 430000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 8,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 6
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Mandarin Chinese",
+      "language_family": "Indo-European",
+      "cultural_region": "Australian"
+    },
+    "history": {
+      "founding_year": 1788,
+      "historical_era": "Modern",
+      "capital_status": "state capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 45000000,
+      "international_air_destinations": 95,
+      "foreign_born_population_pct": 43,
+      "port_importance": 6,
+      "international_tourist_arrivals_annual": 4000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Melbourne",
+      "country": "Australia",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand"
+    },
+    "environment": {
+      "latitude": -37.81,
+      "elevation_m": 31,
+      "avg_annual_temp_c": 15.1,
+      "avg_summer_high_c": 26.0,
+      "avg_winter_low_c": 6.0,
+      "annual_precipitation_mm": 650,
+      "avg_relative_humidity_pct": 68,
+      "annual_sunshine_hours": 2200,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "bay"
+    },
+    "scale": {
+      "city_population": 5100000,
+      "metro_population": 5100000,
+      "metro_density_per_km2": 490,
+      "metro_area_km2": 10400,
+      "population_growth_rate_pct": 2.0,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 19.0,
+      "tall_building_density": 3.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 66,
+      "transit_modal_share_pct": 18,
+      "walking_modal_share_pct": 12,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 250,
+      "street_intersection_density": 80
+    },
+    "economy": {
+      "gdp_per_capita_usd": 72000,
+      "metro_gdp_usd": 370000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 7,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 5
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Mandarin Chinese",
+      "language_family": "Indo-European",
+      "cultural_region": "Australian"
+    },
+    "history": {
+      "founding_year": 1835,
+      "historical_era": "Modern",
+      "capital_status": "state capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 40000000,
+      "international_air_destinations": 90,
+      "foreign_born_population_pct": 40,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Toronto",
+      "country": "Canada",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 43.65,
+      "elevation_m": 76,
+      "avg_annual_temp_c": 9.5,
+      "avg_summer_high_c": 27.0,
+      "avg_winter_low_c": -7.0,
+      "annual_precipitation_mm": 830,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 2060,
+      "koppen_climate": "Dfa",
+      "distance_to_coast_km": 550,
+      "terrain_type": "lake plain",
+      "water_setting": "lake"
+    },
+    "scale": {
+      "city_population": 3000000,
+      "metro_population": 6700000,
+      "metro_density_per_km2": 1050,
+      "metro_area_km2": 6300,
+      "population_growth_rate_pct": 1.8,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 17.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 61,
+      "transit_modal_share_pct": 25,
+      "walking_modal_share_pct": 8,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 77,
+      "street_intersection_density": 100
+    },
+    "economy": {
+      "gdp_per_capita_usd": 65000,
+      "metro_gdp_usd": 440000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 9,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 3
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Mandarin Chinese",
+      "language_family": "Indo-European",
+      "cultural_region": "Canadian"
+    },
+    "history": {
+      "founding_year": 1793,
+      "historical_era": "Modern",
+      "capital_status": "provincial capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 50000000,
+      "international_air_destinations": 120,
+      "foreign_born_population_pct": 47,
+      "port_importance": 2,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "region": "Americas",
+      "subregion": "Central America"
+    },
+    "environment": {
+      "latitude": 19.43,
+      "elevation_m": 2240,
+      "avg_annual_temp_c": 16.0,
+      "avg_summer_high_c": 27.0,
+      "avg_winter_low_c": 6.0,
+      "annual_precipitation_mm": 820,
+      "avg_relative_humidity_pct": 56,
+      "annual_sunshine_hours": 2550,
+      "koppen_climate": "Cwb",
+      "distance_to_coast_km": 310,
+      "terrain_type": "highland basin",
+      "water_setting": "lake basin"
+    },
+    "scale": {
+      "city_population": 9200000,
+      "metro_population": 22000000,
+      "metro_density_per_km2": 6200,
+      "metro_area_km2": 3550,
+      "population_growth_rate_pct": 0.8,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 17.0,
+      "tall_building_density": 5.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 44,
+      "transit_modal_share_pct": 38,
+      "walking_modal_share_pct": 16,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 226,
+      "street_intersection_density": 125
+    },
+    "economy": {
+      "gdp_per_capita_usd": 26000,
+      "metro_gdp_usd": 580000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 8,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Spanish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Mexican"
+    },
+    "history": {
+      "founding_year": 1325,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 53000000,
+      "international_air_destinations": 95,
+      "foreign_born_population_pct": 1,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 3500000
+    }
+  },
+  {
+    "identity": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "region": "Americas",
+      "subregion": "South America"
+    },
+    "environment": {
+      "latitude": -23.55,
+      "elevation_m": 760,
+      "avg_annual_temp_c": 19.5,
+      "avg_summer_high_c": 28.0,
+      "avg_winter_low_c": 11.0,
+      "annual_precipitation_mm": 1450,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 2000,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 70,
+      "terrain_type": "upland plateau",
+      "water_setting": "reservoir/river"
+    },
+    "scale": {
+      "city_population": 12300000,
+      "metro_population": 22000000,
+      "metro_density_per_km2": 3000,
+      "metro_area_km2": 7300,
+      "population_growth_rate_pct": 0.4,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 10.5,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 55,
+      "transit_modal_share_pct": 30,
+      "walking_modal_share_pct": 12,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 100,
+      "street_intersection_density": 120
+    },
+    "economy": {
+      "gdp_per_capita_usd": 23000,
+      "metro_gdp_usd": 500000000000,
+      "manufacturing_intensity": 7,
+      "finance_intensity": 9,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 5,
+      "logistics_port_intensity": 3
+    },
+    "culture": {
+      "primary_language": "Portuguese",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Southeastern Brazilian"
+    },
+    "history": {
+      "founding_year": 1554,
+      "historical_era": "Early modern",
+      "capital_status": "state capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 43000000,
+      "international_air_destinations": 80,
+      "foreign_born_population_pct": 4,
+      "port_importance": 2,
+      "international_tourist_arrivals_annual": 2500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "region": "Americas",
+      "subregion": "South America"
+    },
+    "environment": {
+      "latitude": -22.91,
+      "elevation_m": 5,
+      "avg_annual_temp_c": 23.7,
+      "avg_summer_high_c": 31.0,
+      "avg_winter_low_c": 18.0,
+      "annual_precipitation_mm": 1170,
+      "avg_relative_humidity_pct": 78,
+      "annual_sunshine_hours": 2200,
+      "koppen_climate": "Aw",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal mountains",
+      "water_setting": "bay/ocean"
+    },
+    "scale": {
+      "city_population": 6200000,
+      "metro_population": 13000000,
+      "metro_density_per_km2": 2700,
+      "metro_area_km2": 4800,
+      "population_growth_rate_pct": 0.1,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 6.2,
+      "tall_building_density": 5.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 49,
+      "transit_modal_share_pct": 32,
+      "walking_modal_share_pct": 17,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 41,
+      "street_intersection_density": 105
+    },
+    "economy": {
+      "gdp_per_capita_usd": 18000,
+      "metro_gdp_usd": 230000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 5,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 6
+    },
+    "culture": {
+      "primary_language": "Portuguese",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Southeastern Brazilian"
+    },
+    "history": {
+      "founding_year": 1565,
+      "historical_era": "Early modern",
+      "capital_status": "state capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 22000000,
+      "international_air_destinations": 45,
+      "foreign_born_population_pct": 4,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 2300000
+    }
+  },
+  {
+    "identity": {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "region": "Americas",
+      "subregion": "South America"
+    },
+    "environment": {
+      "latitude": -34.6,
+      "elevation_m": 25,
+      "avg_annual_temp_c": 18.0,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": 6.0,
+      "annual_precipitation_mm": 1250,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 2500,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "river plain",
+      "water_setting": "estuary"
+    },
+    "scale": {
+      "city_population": 3100000,
+      "metro_population": 15500000,
+      "metro_density_per_km2": 3800,
+      "metro_area_km2": 4100,
+      "population_growth_rate_pct": 0.3,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 34.0,
+      "tall_building_density": 4.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 36,
+      "transit_modal_share_pct": 42,
+      "walking_modal_share_pct": 20,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 64,
+      "street_intersection_density": 145
+    },
+    "economy": {
+      "gdp_per_capita_usd": 26000,
+      "metro_gdp_usd": 400000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 7,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 7
+    },
+    "culture": {
+      "primary_language": "Spanish",
+      "secondary_language": "Italian",
+      "language_family": "Indo-European",
+      "cultural_region": "Rioplatense"
+    },
+    "history": {
+      "founding_year": 1536,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 18000000,
+      "international_air_destinations": 55,
+      "foreign_born_population_pct": 14,
+      "port_importance": 7,
+      "international_tourist_arrivals_annual": 2600000
+    }
+  },
+  {
+    "identity": {
+      "city": "Lima",
+      "country": "Peru",
+      "region": "Americas",
+      "subregion": "South America"
+    },
+    "environment": {
+      "latitude": -12.05,
+      "elevation_m": 154,
+      "avg_annual_temp_c": 19.2,
+      "avg_summer_high_c": 28.0,
+      "avg_winter_low_c": 14.0,
+      "annual_precipitation_mm": 15,
+      "avg_relative_humidity_pct": 82,
+      "annual_sunshine_hours": 1230,
+      "koppen_climate": "BWh",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal desert",
+      "water_setting": "pacific ocean"
+    },
+    "scale": {
+      "city_population": 10500000,
+      "metro_population": 11200000,
+      "metro_density_per_km2": 4000,
+      "metro_area_km2": 2800,
+      "population_growth_rate_pct": 1.3,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 33.0,
+      "tall_building_density": 4.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 62,
+      "transit_modal_share_pct": 21,
+      "walking_modal_share_pct": 15,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 35,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 15000,
+      "metro_gdp_usd": 170000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 6,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 8
+    },
+    "culture": {
+      "primary_language": "Spanish",
+      "secondary_language": "Quechua",
+      "language_family": "Indo-European",
+      "cultural_region": "Peruvian Coastal"
+    },
+    "history": {
+      "founding_year": 1535,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 25000000,
+      "international_air_destinations": 45,
+      "foreign_born_population_pct": 3,
+      "port_importance": 8,
+      "international_tourist_arrivals_annual": 2700000
+    }
+  },
+  {
+    "identity": {
+      "city": "Bogotá",
+      "country": "Colombia",
+      "region": "Americas",
+      "subregion": "South America"
+    },
+    "environment": {
+      "latitude": 4.71,
+      "elevation_m": 2640,
+      "avg_annual_temp_c": 14.5,
+      "avg_summer_high_c": 20.0,
+      "avg_winter_low_c": 7.0,
+      "annual_precipitation_mm": 800,
+      "avg_relative_humidity_pct": 77,
+      "annual_sunshine_hours": 1330,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 450,
+      "terrain_type": "highland plateau",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 8000000,
+      "metro_population": 11500000,
+      "metro_density_per_km2": 5800,
+      "metro_area_km2": 2000,
+      "population_growth_rate_pct": 1.1,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 22.0,
+      "tall_building_density": 4.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 45,
+      "transit_modal_share_pct": 35,
+      "walking_modal_share_pct": 17,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 114,
+      "street_intersection_density": 135
+    },
+    "economy": {
+      "gdp_per_capita_usd": 18000,
+      "metro_gdp_usd": 210000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 7,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 6,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Spanish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Andean Colombian"
+    },
+    "history": {
+      "founding_year": 1538,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 40000000,
+      "international_air_destinations": 70,
+      "foreign_born_population_pct": 3,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 1800000
+    }
+  },
+  {
+    "identity": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "region": "Africa",
+      "subregion": "Northern Africa"
+    },
+    "environment": {
+      "latitude": 30.04,
+      "elevation_m": 23,
+      "avg_annual_temp_c": 22.1,
+      "avg_summer_high_c": 35.0,
+      "avg_winter_low_c": 9.0,
+      "annual_precipitation_mm": 25,
+      "avg_relative_humidity_pct": 55,
+      "annual_sunshine_hours": 3450,
+      "koppen_climate": "BWh",
+      "distance_to_coast_km": 170,
+      "terrain_type": "river valley/desert",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 10200000,
+      "metro_population": 22000000,
+      "metro_density_per_km2": 19000,
+      "metro_area_km2": 1150,
+      "population_growth_rate_pct": 2.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 20.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 55,
+      "transit_modal_share_pct": 35,
+      "walking_modal_share_pct": 8,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 99,
+      "street_intersection_density": 145
+    },
+    "economy": {
+      "gdp_per_capita_usd": 12000,
+      "metro_gdp_usd": 270000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 6,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Arabic",
+      "secondary_language": "English",
+      "language_family": "Afro-Asiatic",
+      "cultural_region": "Egyptian Arab"
+    },
+    "history": {
+      "founding_year": 969,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 26000000,
+      "international_air_destinations": 60,
+      "foreign_born_population_pct": 1,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "region": "Asia",
+      "subregion": "Western Asia"
+    },
+    "environment": {
+      "latitude": 41.01,
+      "elevation_m": 40,
+      "avg_annual_temp_c": 14.5,
+      "avg_summer_high_c": 28.0,
+      "avg_winter_low_c": 3.5,
+      "annual_precipitation_mm": 850,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 2200,
+      "koppen_climate": "Csa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal hills",
+      "water_setting": "strait/sea"
+    },
+    "scale": {
+      "city_population": 15800000,
+      "metro_population": 16000000,
+      "metro_density_per_km2": 3000,
+      "metro_area_km2": 5300,
+      "population_growth_rate_pct": 1.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 18.5,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 49,
+      "transit_modal_share_pct": 31,
+      "walking_modal_share_pct": 17,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 128,
+      "street_intersection_density": 125
+    },
+    "economy": {
+      "gdp_per_capita_usd": 22000,
+      "metro_gdp_usd": 350000000000,
+      "manufacturing_intensity": 6,
+      "finance_intensity": 6,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 10
+    },
+    "culture": {
+      "primary_language": "Turkish",
+      "secondary_language": "English",
+      "language_family": "Turkic",
+      "cultural_region": "Anatolian"
+    },
+    "history": {
+      "founding_year": 660,
+      "historical_era": "Ancient",
+      "capital_status": "none",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 120000000,
+      "international_air_destinations": 250,
+      "foreign_born_population_pct": 6,
+      "port_importance": 10,
+      "international_tourist_arrivals_annual": 17000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Moscow",
+      "country": "Russia",
+      "region": "Europe",
+      "subregion": "Eastern Europe"
+    },
+    "environment": {
+      "latitude": 55.76,
+      "elevation_m": 156,
+      "avg_annual_temp_c": 5.8,
+      "avg_summer_high_c": 24.0,
+      "avg_winter_low_c": -13.0,
+      "annual_precipitation_mm": 700,
+      "avg_relative_humidity_pct": 77,
+      "annual_sunshine_hours": 1730,
+      "koppen_climate": "Dfb",
+      "distance_to_coast_km": 650,
+      "terrain_type": "inland plain",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 13200000,
+      "metro_population": 18000000,
+      "metro_density_per_km2": 2900,
+      "metro_area_km2": 6200,
+      "population_growth_rate_pct": 0.7,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 12.0,
+      "tall_building_density": 7.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 40,
+      "transit_modal_share_pct": 42,
+      "walking_modal_share_pct": 16,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 466,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 35000,
+      "metro_gdp_usd": 630000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 9,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 5,
+      "logistics_port_intensity": 1
+    },
+    "culture": {
+      "primary_language": "Russian",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Russian"
+    },
+    "history": {
+      "founding_year": 1147,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 78000000,
+      "international_air_destinations": 115,
+      "foreign_born_population_pct": 10,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 2500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "subregion": "Western Europe"
+    },
+    "environment": {
+      "latitude": 52.52,
+      "elevation_m": 34,
+      "avg_annual_temp_c": 10.5,
+      "avg_summer_high_c": 25.0,
+      "avg_winter_low_c": -1.0,
+      "annual_precipitation_mm": 570,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 1700,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 180,
+      "terrain_type": "lowland plain",
+      "water_setting": "river/lakes"
+    },
+    "scale": {
+      "city_population": 3900000,
+      "metro_population": 6200000,
+      "metro_density_per_km2": 1100,
+      "metro_area_km2": 5600,
+      "population_growth_rate_pct": 0.7,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 7.2,
+      "tall_building_density": 2.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 33,
+      "transit_modal_share_pct": 30,
+      "walking_modal_share_pct": 27,
+      "cycling_modal_share_pct": 18,
+      "rapid_transit_network_km": 155,
+      "street_intersection_density": 130
+    },
+    "economy": {
+      "gdp_per_capita_usd": 60000,
+      "metro_gdp_usd": 370000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 7,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 1
+    },
+    "culture": {
+      "primary_language": "German",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "German"
+    },
+    "history": {
+      "founding_year": 1237,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 35000000,
+      "international_air_destinations": 120,
+      "foreign_born_population_pct": 22,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 6000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Madrid",
+      "country": "Spain",
+      "region": "Europe",
+      "subregion": "Southern Europe"
+    },
+    "environment": {
+      "latitude": 40.42,
+      "elevation_m": 667,
+      "avg_annual_temp_c": 15.0,
+      "avg_summer_high_c": 33.0,
+      "avg_winter_low_c": 2.5,
+      "annual_precipitation_mm": 430,
+      "avg_relative_humidity_pct": 57,
+      "annual_sunshine_hours": 2770,
+      "koppen_climate": "Csa",
+      "distance_to_coast_km": 300,
+      "terrain_type": "high plateau",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 3300000,
+      "metro_population": 6800000,
+      "metro_density_per_km2": 1900,
+      "metro_area_km2": 3600,
+      "population_growth_rate_pct": 0.9,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 14.0,
+      "tall_building_density": 3.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 50,
+      "transit_modal_share_pct": 32,
+      "walking_modal_share_pct": 15,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 294,
+      "street_intersection_density": 125
+    },
+    "economy": {
+      "gdp_per_capita_usd": 52000,
+      "metro_gdp_usd": 350000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 8,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 1
+    },
+    "culture": {
+      "primary_language": "Spanish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Castilian"
+    },
+    "history": {
+      "founding_year": 860,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 67000000,
+      "international_air_destinations": 190,
+      "foreign_born_population_pct": 16,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 8500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Rome",
+      "country": "Italy",
+      "region": "Europe",
+      "subregion": "Southern Europe"
+    },
+    "environment": {
+      "latitude": 41.9,
+      "elevation_m": 21,
+      "avg_annual_temp_c": 16.0,
+      "avg_summer_high_c": 31.0,
+      "avg_winter_low_c": 4.0,
+      "annual_precipitation_mm": 800,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 2470,
+      "koppen_climate": "Csa",
+      "distance_to_coast_km": 25,
+      "terrain_type": "rolling hills",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 2800000,
+      "metro_population": 4300000,
+      "metro_density_per_km2": 800,
+      "metro_area_km2": 5400,
+      "population_growth_rate_pct": -0.1,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 7.2,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 53,
+      "transit_modal_share_pct": 30,
+      "walking_modal_share_pct": 16,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 60,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 48000,
+      "metro_gdp_usd": 210000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 5,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 1
+    },
+    "culture": {
+      "primary_language": "Italian",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Central Italian"
+    },
+    "history": {
+      "founding_year": -753,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 50000000,
+      "international_air_destinations": 170,
+      "foreign_born_population_pct": 14,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 10000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Milan",
+      "country": "Italy",
+      "region": "Europe",
+      "subregion": "Southern Europe"
+    },
+    "environment": {
+      "latitude": 45.46,
+      "elevation_m": 122,
+      "avg_annual_temp_c": 13.1,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": -1.0,
+      "annual_precipitation_mm": 920,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 1900,
+      "koppen_climate": "Cfa",
+      "distance_to_coast_km": 120,
+      "terrain_type": "river plain",
+      "water_setting": "canals/river"
+    },
+    "scale": {
+      "city_population": 1400000,
+      "metro_population": 6200000,
+      "metro_density_per_km2": 3000,
+      "metro_area_km2": 2100,
+      "population_growth_rate_pct": 0.6,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 10.5,
+      "tall_building_density": 3.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 47,
+      "transit_modal_share_pct": 36,
+      "walking_modal_share_pct": 14,
+      "cycling_modal_share_pct": 3,
+      "rapid_transit_network_km": 111,
+      "street_intersection_density": 140
+    },
+    "economy": {
+      "gdp_per_capita_usd": 65000,
+      "metro_gdp_usd": 400000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 9,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Italian",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Northern Italian"
+    },
+    "history": {
+      "founding_year": 600,
+      "historical_era": "Ancient",
+      "capital_status": "regional capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 50000000,
+      "international_air_destinations": 160,
+      "foreign_born_population_pct": 18,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 4500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "region": "Europe",
+      "subregion": "Western Europe"
+    },
+    "environment": {
+      "latitude": 52.37,
+      "elevation_m": 2,
+      "avg_annual_temp_c": 11.0,
+      "avg_summer_high_c": 22.0,
+      "avg_winter_low_c": 2.0,
+      "annual_precipitation_mm": 850,
+      "avg_relative_humidity_pct": 82,
+      "annual_sunshine_hours": 1660,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 20,
+      "terrain_type": "low coastal plain",
+      "water_setting": "canals/river"
+    },
+    "scale": {
+      "city_population": 930000,
+      "metro_population": 2500000,
+      "metro_density_per_km2": 2000,
+      "metro_area_km2": 1250,
+      "population_growth_rate_pct": 0.9,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 14.0,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 25,
+      "transit_modal_share_pct": 32,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 28,
+      "rapid_transit_network_km": 43,
+      "street_intersection_density": 155
+    },
+    "economy": {
+      "gdp_per_capita_usd": 80000,
+      "metro_gdp_usd": 200000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 9,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 5
+    },
+    "culture": {
+      "primary_language": "Dutch",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Dutch"
+    },
+    "history": {
+      "founding_year": 1275,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 70000000,
+      "international_air_destinations": 180,
+      "foreign_born_population_pct": 36,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 9000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "region": "Europe",
+      "subregion": "Northern Europe"
+    },
+    "environment": {
+      "latitude": 59.33,
+      "elevation_m": 28,
+      "avg_annual_temp_c": 7.8,
+      "avg_summer_high_c": 22.0,
+      "avg_winter_low_c": -6.0,
+      "annual_precipitation_mm": 540,
+      "avg_relative_humidity_pct": 76,
+      "annual_sunshine_hours": 1800,
+      "koppen_climate": "Dfb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "archipelago/low hills",
+      "water_setting": "sea/lakes"
+    },
+    "scale": {
+      "city_population": 1000000,
+      "metro_population": 2500000,
+      "metro_density_per_km2": 800,
+      "metro_area_km2": 3100,
+      "population_growth_rate_pct": 1.4,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 23.0,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 36,
+      "transit_modal_share_pct": 37,
+      "walking_modal_share_pct": 20,
+      "cycling_modal_share_pct": 7,
+      "rapid_transit_network_km": 110,
+      "street_intersection_density": 120
+    },
+    "economy": {
+      "gdp_per_capita_usd": 85000,
+      "metro_gdp_usd": 210000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 8,
+      "technology_research_intensity": 10,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 4
+    },
+    "culture": {
+      "primary_language": "Swedish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Nordic"
+    },
+    "history": {
+      "founding_year": 1252,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 31000000,
+      "international_air_destinations": 110,
+      "foreign_born_population_pct": 25,
+      "port_importance": 4,
+      "international_tourist_arrivals_annual": 2600000
+    }
+  },
+  {
+    "identity": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "region": "Europe",
+      "subregion": "Northern Europe"
+    },
+    "environment": {
+      "latitude": 55.68,
+      "elevation_m": 14,
+      "avg_annual_temp_c": 9.5,
+      "avg_summer_high_c": 22.0,
+      "avg_winter_low_c": 0.0,
+      "annual_precipitation_mm": 610,
+      "avg_relative_humidity_pct": 80,
+      "annual_sunshine_hours": 1780,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "flat coastal plain",
+      "water_setting": "strait/harbor"
+    },
+    "scale": {
+      "city_population": 660000,
+      "metro_population": 2100000,
+      "metro_density_per_km2": 900,
+      "metro_area_km2": 2300,
+      "population_growth_rate_pct": 1.2,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 35.0,
+      "tall_building_density": 1.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 28,
+      "transit_modal_share_pct": 30,
+      "walking_modal_share_pct": 20,
+      "cycling_modal_share_pct": 22,
+      "rapid_transit_network_km": 40,
+      "street_intersection_density": 145
+    },
+    "economy": {
+      "gdp_per_capita_usd": 90000,
+      "metro_gdp_usd": 190000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 8,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 5
+    },
+    "culture": {
+      "primary_language": "Danish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Nordic"
+    },
+    "history": {
+      "founding_year": 1167,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 30000000,
+      "international_air_destinations": 125,
+      "foreign_born_population_pct": 18,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 3500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Vienna",
+      "country": "Austria",
+      "region": "Europe",
+      "subregion": "Western Europe"
+    },
+    "environment": {
+      "latitude": 48.21,
+      "elevation_m": 171,
+      "avg_annual_temp_c": 11.0,
+      "avg_summer_high_c": 26.0,
+      "avg_winter_low_c": -1.5,
+      "annual_precipitation_mm": 600,
+      "avg_relative_humidity_pct": 72,
+      "annual_sunshine_hours": 1880,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 350,
+      "terrain_type": "river basin/hills",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 2000000,
+      "metro_population": 2900000,
+      "metro_density_per_km2": 1000,
+      "metro_area_km2": 2900,
+      "population_growth_rate_pct": 0.9,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 22.0,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 27,
+      "transit_modal_share_pct": 38,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 7,
+      "rapid_transit_network_km": 83,
+      "street_intersection_density": 135
+    },
+    "economy": {
+      "gdp_per_capita_usd": 65000,
+      "metro_gdp_usd": 185000000000,
+      "manufacturing_intensity": 3,
+      "finance_intensity": 7,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "German",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Central European"
+    },
+    "history": {
+      "founding_year": 500,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 32000000,
+      "international_air_destinations": 125,
+      "foreign_born_population_pct": 31,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 6500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Prague",
+      "country": "Czechia",
+      "region": "Europe",
+      "subregion": "Eastern Europe"
+    },
+    "environment": {
+      "latitude": 50.08,
+      "elevation_m": 200,
+      "avg_annual_temp_c": 9.5,
+      "avg_summer_high_c": 25.0,
+      "avg_winter_low_c": -4.0,
+      "annual_precipitation_mm": 530,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 1660,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 450,
+      "terrain_type": "river basin/hills",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 1400000,
+      "metro_population": 2700000,
+      "metro_density_per_km2": 900,
+      "metro_area_km2": 3000,
+      "population_growth_rate_pct": 0.8,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 13.0,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 43,
+      "transit_modal_share_pct": 36,
+      "walking_modal_share_pct": 17,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 65,
+      "street_intersection_density": 140
+    },
+    "economy": {
+      "gdp_per_capita_usd": 48000,
+      "metro_gdp_usd": 130000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 6,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 1
+    },
+    "culture": {
+      "primary_language": "Czech",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Central European"
+    },
+    "history": {
+      "founding_year": 885,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 17000000,
+      "international_air_destinations": 100,
+      "foreign_born_population_pct": 15,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 7000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Warsaw",
+      "country": "Poland",
+      "region": "Europe",
+      "subregion": "Eastern Europe"
+    },
+    "environment": {
+      "latitude": 52.23,
+      "elevation_m": 100,
+      "avg_annual_temp_c": 9.2,
+      "avg_summer_high_c": 25.0,
+      "avg_winter_low_c": -5.0,
+      "annual_precipitation_mm": 520,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 1700,
+      "koppen_climate": "Dfb",
+      "distance_to_coast_km": 260,
+      "terrain_type": "river plain",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 1900000,
+      "metro_population": 3200000,
+      "metro_density_per_km2": 900,
+      "metro_area_km2": 3600,
+      "population_growth_rate_pct": 0.7,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 8.5,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 49,
+      "transit_modal_share_pct": 28,
+      "walking_modal_share_pct": 18,
+      "cycling_modal_share_pct": 3,
+      "rapid_transit_network_km": 39,
+      "street_intersection_density": 120
+    },
+    "economy": {
+      "gdp_per_capita_usd": 42000,
+      "metro_gdp_usd": 135000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 7,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 6,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Polish",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Polish"
+    },
+    "history": {
+      "founding_year": 1300,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 21000000,
+      "international_air_destinations": 110,
+      "foreign_born_population_pct": 8,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Athens",
+      "country": "Greece",
+      "region": "Europe",
+      "subregion": "Southern Europe"
+    },
+    "environment": {
+      "latitude": 37.98,
+      "elevation_m": 70,
+      "avg_annual_temp_c": 18.5,
+      "avg_summer_high_c": 34.0,
+      "avg_winter_low_c": 6.0,
+      "annual_precipitation_mm": 380,
+      "avg_relative_humidity_pct": 57,
+      "annual_sunshine_hours": 2770,
+      "koppen_climate": "Csa",
+      "distance_to_coast_km": 5,
+      "terrain_type": "coastal basin/hills",
+      "water_setting": "gulf"
+    },
+    "scale": {
+      "city_population": 640000,
+      "metro_population": 3100000,
+      "metro_density_per_km2": 2100,
+      "metro_area_km2": 1500,
+      "population_growth_rate_pct": -0.2,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 30.0,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 54,
+      "transit_modal_share_pct": 31,
+      "walking_modal_share_pct": 14,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 92,
+      "street_intersection_density": 105
+    },
+    "economy": {
+      "gdp_per_capita_usd": 35000,
+      "metro_gdp_usd": 110000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 6,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 5
+    },
+    "culture": {
+      "primary_language": "Greek",
+      "secondary_language": "English",
+      "language_family": "Indo-European",
+      "cultural_region": "Greek"
+    },
+    "history": {
+      "founding_year": -800,
+      "historical_era": "Ancient",
+      "capital_status": "national capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 30000000,
+      "international_air_destinations": 125,
+      "foreign_born_population_pct": 14,
+      "port_importance": 4,
+      "international_tourist_arrivals_annual": 7000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "Africa",
+      "subregion": "Southern Africa"
+    },
+    "environment": {
+      "latitude": -26.2,
+      "elevation_m": 1753,
+      "avg_annual_temp_c": 16.0,
+      "avg_summer_high_c": 26.0,
+      "avg_winter_low_c": 4.0,
+      "annual_precipitation_mm": 710,
+      "avg_relative_humidity_pct": 58,
+      "annual_sunshine_hours": 3120,
+      "koppen_climate": "Cwb",
+      "distance_to_coast_km": 500,
+      "terrain_type": "highveld plateau",
+      "water_setting": "reservoirs"
+    },
+    "scale": {
+      "city_population": 5600000,
+      "metro_population": 10800000,
+      "metro_density_per_km2": 2800,
+      "metro_area_km2": 3900,
+      "population_growth_rate_pct": 1.8,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 18.0,
+      "tall_building_density": 4.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 67,
+      "transit_modal_share_pct": 20,
+      "walking_modal_share_pct": 10,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 80,
+      "street_intersection_density": 90
+    },
+    "economy": {
+      "gdp_per_capita_usd": 17000,
+      "metro_gdp_usd": 185000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 9,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 4,
+      "logistics_port_intensity": 3
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Zulu",
+      "language_family": "Indo-European",
+      "cultural_region": "South African"
+    },
+    "history": {
+      "founding_year": 1886,
+      "historical_era": "Modern",
+      "capital_status": "none",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 28000000,
+      "international_air_destinations": 55,
+      "foreign_born_population_pct": 12,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 1200000
+    }
+  },
+  {
+    "identity": {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Africa",
+      "subregion": "Southern Africa"
+    },
+    "environment": {
+      "latitude": -33.92,
+      "elevation_m": 25,
+      "avg_annual_temp_c": 17.0,
+      "avg_summer_high_c": 27.0,
+      "avg_winter_low_c": 7.0,
+      "annual_precipitation_mm": 515,
+      "avg_relative_humidity_pct": 71,
+      "annual_sunshine_hours": 3100,
+      "koppen_climate": "Csb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal mountains",
+      "water_setting": "ocean/bay"
+    },
+    "scale": {
+      "city_population": 4800000,
+      "metro_population": 5000000,
+      "metro_density_per_km2": 2100,
+      "metro_area_km2": 2400,
+      "population_growth_rate_pct": 1.6,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 8.2,
+      "tall_building_density": 3.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 58,
+      "transit_modal_share_pct": 22,
+      "walking_modal_share_pct": 17,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 0,
+      "street_intersection_density": 85
+    },
+    "economy": {
+      "gdp_per_capita_usd": 16000,
+      "metro_gdp_usd": 80000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 5,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 7
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Afrikaans",
+      "language_family": "Indo-European",
+      "cultural_region": "Cape South African"
+    },
+    "history": {
+      "founding_year": 1652,
+      "historical_era": "Early modern",
+      "capital_status": "legislative capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 10000000,
+      "international_air_destinations": 35,
+      "foreign_born_population_pct": 17,
+      "port_importance": 7,
+      "international_tourist_arrivals_annual": 2500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "Africa",
+      "subregion": "Western Africa"
+    },
+    "environment": {
+      "latitude": 6.52,
+      "elevation_m": 41,
+      "avg_annual_temp_c": 27.0,
+      "avg_summer_high_c": 32.0,
+      "avg_winter_low_c": 23.0,
+      "annual_precipitation_mm": 1500,
+      "avg_relative_humidity_pct": 84,
+      "annual_sunshine_hours": 1850,
+      "koppen_climate": "Aw",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal lagoon/plain",
+      "water_setting": "lagoon/ocean"
+    },
+    "scale": {
+      "city_population": 15000000,
+      "metro_population": 22000000,
+      "metro_density_per_km2": 7200,
+      "metro_area_km2": 3050,
+      "population_growth_rate_pct": 3.2,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 9.5,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 58,
+      "transit_modal_share_pct": 19,
+      "walking_modal_share_pct": 20,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 0,
+      "street_intersection_density": 115
+    },
+    "economy": {
+      "gdp_per_capita_usd": 8000,
+      "metro_gdp_usd": 175000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 7,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 5,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Yoruba",
+      "language_family": "Indo-European",
+      "cultural_region": "West African"
+    },
+    "history": {
+      "founding_year": 1400,
+      "historical_era": "Medieval",
+      "capital_status": "state capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 8500000,
+      "international_air_destinations": 25,
+      "foreign_born_population_pct": 1,
+      "port_importance": 9,
+      "international_tourist_arrivals_annual": 1500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "Africa",
+      "subregion": "Eastern Africa"
+    },
+    "environment": {
+      "latitude": -1.29,
+      "elevation_m": 1795,
+      "avg_annual_temp_c": 18.5,
+      "avg_summer_high_c": 27.0,
+      "avg_winter_low_c": 10.0,
+      "annual_precipitation_mm": 870,
+      "avg_relative_humidity_pct": 66,
+      "annual_sunshine_hours": 2500,
+      "koppen_climate": "Cwb",
+      "distance_to_coast_km": 440,
+      "terrain_type": "highland plateau",
+      "water_setting": "river/reservoir"
+    },
+    "scale": {
+      "city_population": 5100000,
+      "metro_population": 6200000,
+      "metro_density_per_km2": 4500,
+      "metro_area_km2": 1400,
+      "population_growth_rate_pct": 3.5,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 11.0,
+      "tall_building_density": 3.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 60,
+      "transit_modal_share_pct": 24,
+      "walking_modal_share_pct": 14,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 0,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 9000,
+      "metro_gdp_usd": 60000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 6,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 3
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Swahili",
+      "language_family": "Mixed",
+      "cultural_region": "East African"
+    },
+    "history": {
+      "founding_year": 1899,
+      "historical_era": "Modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 9000000,
+      "international_air_destinations": 50,
+      "foreign_born_population_pct": 8,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 1400000
+    }
+  },
+  {
+    "identity": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "region": "Asia",
+      "subregion": "Western Asia"
+    },
+    "environment": {
+      "latitude": 24.71,
+      "elevation_m": 612,
+      "avg_annual_temp_c": 26.0,
+      "avg_summer_high_c": 43.0,
+      "avg_winter_low_c": 8.0,
+      "annual_precipitation_mm": 100,
+      "avg_relative_humidity_pct": 25,
+      "annual_sunshine_hours": 3220,
+      "koppen_climate": "BWh",
+      "distance_to_coast_km": 380,
+      "terrain_type": "desert plateau",
+      "water_setting": "none"
+    },
+    "scale": {
+      "city_population": 7800000,
+      "metro_population": 8200000,
+      "metro_density_per_km2": 1700,
+      "metro_area_km2": 4800,
+      "population_growth_rate_pct": 2.7,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 22.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 78,
+      "transit_modal_share_pct": 10,
+      "walking_modal_share_pct": 10,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 176,
+      "street_intersection_density": 70
+    },
+    "economy": {
+      "gdp_per_capita_usd": 50000,
+      "metro_gdp_usd": 410000000000,
+      "manufacturing_intensity": 4,
+      "finance_intensity": 8,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 5,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Arabic",
+      "secondary_language": "English",
+      "language_family": "Afro-Asiatic",
+      "cultural_region": "Gulf Arab"
+    },
+    "history": {
+      "founding_year": 1746,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 35000000,
+      "international_air_destinations": 100,
+      "foreign_born_population_pct": 40,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 1500000
+    }
+  },
+  {
+    "identity": {
+      "city": "Tehran",
+      "country": "Iran",
+      "region": "Asia",
+      "subregion": "Southern Asia"
+    },
+    "environment": {
+      "latitude": 35.69,
+      "elevation_m": 1200,
+      "avg_annual_temp_c": 17.5,
+      "avg_summer_high_c": 36.0,
+      "avg_winter_low_c": -1.0,
+      "annual_precipitation_mm": 230,
+      "avg_relative_humidity_pct": 42,
+      "annual_sunshine_hours": 2800,
+      "koppen_climate": "BSk",
+      "distance_to_coast_km": 700,
+      "terrain_type": "mountain foothill plain",
+      "water_setting": "river/reservoir"
+    },
+    "scale": {
+      "city_population": 9300000,
+      "metro_population": 15500000,
+      "metro_density_per_km2": 4200,
+      "metro_area_km2": 3700,
+      "population_growth_rate_pct": 1.1,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 18.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 66,
+      "transit_modal_share_pct": 25,
+      "walking_modal_share_pct": 8,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 250,
+      "street_intersection_density": 110
+    },
+    "economy": {
+      "gdp_per_capita_usd": 18000,
+      "metro_gdp_usd": 280000000000,
+      "manufacturing_intensity": 6,
+      "finance_intensity": 6,
+      "technology_research_intensity": 5,
+      "tourism_intensity": 4,
+      "logistics_port_intensity": 2
+    },
+    "culture": {
+      "primary_language": "Persian",
+      "secondary_language": "Azerbaijani",
+      "language_family": "Indo-European",
+      "cultural_region": "Iranian"
+    },
+    "history": {
+      "founding_year": 1220,
+      "historical_era": "Medieval",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 16000000,
+      "international_air_destinations": 50,
+      "foreign_born_population_pct": 2,
+      "port_importance": 1,
+      "international_tourist_arrivals_annual": 900000
+    }
+  },
+  {
+    "identity": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "region": "Asia",
+      "subregion": "Southern Asia"
+    },
+    "environment": {
+      "latitude": 24.86,
+      "elevation_m": 8,
+      "avg_annual_temp_c": 26.5,
+      "avg_summer_high_c": 34.0,
+      "avg_winter_low_c": 13.0,
+      "annual_precipitation_mm": 220,
+      "avg_relative_humidity_pct": 68,
+      "annual_sunshine_hours": 2950,
+      "koppen_climate": "BWh",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "arabian sea"
+    },
+    "scale": {
+      "city_population": 16000000,
+      "metro_population": 20000000,
+      "metro_density_per_km2": 7100,
+      "metro_area_km2": 2800,
+      "population_growth_rate_pct": 2.3,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 8.0,
+      "tall_building_density": 4.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 65,
+      "transit_modal_share_pct": 18,
+      "walking_modal_share_pct": 15,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 0,
+      "street_intersection_density": 120
+    },
+    "economy": {
+      "gdp_per_capita_usd": 7000,
+      "metro_gdp_usd": 140000000000,
+      "manufacturing_intensity": 7,
+      "finance_intensity": 6,
+      "technology_research_intensity": 4,
+      "tourism_intensity": 4,
+      "logistics_port_intensity": 10
+    },
+    "culture": {
+      "primary_language": "Urdu",
+      "secondary_language": "Sindhi",
+      "language_family": "Indo-European",
+      "cultural_region": "South Asian"
+    },
+    "history": {
+      "founding_year": 1729,
+      "historical_era": "Early modern",
+      "capital_status": "provincial capital",
+      "former_capital": true
+    },
+    "connectivity": {
+      "airport_passengers_annual": 11000000,
+      "international_air_destinations": 35,
+      "foreign_born_population_pct": 2,
+      "port_importance": 10,
+      "international_tourist_arrivals_annual": 900000
+    }
+  },
+  {
+    "identity": {
+      "city": "Manila",
+      "country": "Philippines",
+      "region": "Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "environment": {
+      "latitude": 14.6,
+      "elevation_m": 16,
+      "avg_annual_temp_c": 28.4,
+      "avg_summer_high_c": 33.0,
+      "avg_winter_low_c": 24.0,
+      "annual_precipitation_mm": 2050,
+      "avg_relative_humidity_pct": 78,
+      "annual_sunshine_hours": 2100,
+      "koppen_climate": "Am",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal plain",
+      "water_setting": "bay"
+    },
+    "scale": {
+      "city_population": 1850000,
+      "metro_population": 26000000,
+      "metro_density_per_km2": 14000,
+      "metro_area_km2": 1850,
+      "population_growth_rate_pct": 1.5,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 22.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 42,
+      "transit_modal_share_pct": 34,
+      "walking_modal_share_pct": 21,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 33,
+      "street_intersection_density": 160
+    },
+    "economy": {
+      "gdp_per_capita_usd": 10000,
+      "metro_gdp_usd": 260000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 6,
+      "technology_research_intensity": 6,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "Filipino",
+      "secondary_language": "English",
+      "language_family": "Austronesian",
+      "cultural_region": "Filipino"
+    },
+    "history": {
+      "founding_year": 1571,
+      "historical_era": "Early modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 48000000,
+      "international_air_destinations": 85,
+      "foreign_born_population_pct": 1,
+      "port_importance": 8,
+      "international_tourist_arrivals_annual": 1800000
+    }
+  },
+  {
+    "identity": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "region": "Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "environment": {
+      "latitude": 3.14,
+      "elevation_m": 66,
+      "avg_annual_temp_c": 27.3,
+      "avg_summer_high_c": 33.0,
+      "avg_winter_low_c": 23.0,
+      "annual_precipitation_mm": 2450,
+      "avg_relative_humidity_pct": 80,
+      "annual_sunshine_hours": 2200,
+      "koppen_climate": "Af",
+      "distance_to_coast_km": 35,
+      "terrain_type": "river valley/hills",
+      "water_setting": "river"
+    },
+    "scale": {
+      "city_population": 2000000,
+      "metro_population": 8600000,
+      "metro_density_per_km2": 3200,
+      "metro_area_km2": 2700,
+      "population_growth_rate_pct": 2.0,
+      "national_city_rank": 1,
+      "share_of_national_population_pct": 25.0,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 67,
+      "transit_modal_share_pct": 20,
+      "walking_modal_share_pct": 11,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 52,
+      "street_intersection_density": 105
+    },
+    "economy": {
+      "gdp_per_capita_usd": 30000,
+      "metro_gdp_usd": 260000000000,
+      "manufacturing_intensity": 6,
+      "finance_intensity": 8,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 8,
+      "logistics_port_intensity": 6
+    },
+    "culture": {
+      "primary_language": "Malay",
+      "secondary_language": "English",
+      "language_family": "Austronesian",
+      "cultural_region": "Malaysian"
+    },
+    "history": {
+      "founding_year": 1857,
+      "historical_era": "Modern",
+      "capital_status": "national capital",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 60000000,
+      "international_air_destinations": 120,
+      "foreign_born_population_pct": 10,
+      "port_importance": 4,
+      "international_tourist_arrivals_annual": 4000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Vancouver",
+      "country": "Canada",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 49.28,
+      "elevation_m": 70,
+      "avg_annual_temp_c": 10.4,
+      "avg_summer_high_c": 22.0,
+      "avg_winter_low_c": 1.0,
+      "annual_precipitation_mm": 1200,
+      "avg_relative_humidity_pct": 81,
+      "annual_sunshine_hours": 1940,
+      "koppen_climate": "Cfb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal basin/mountains",
+      "water_setting": "ocean/harbor"
+    },
+    "scale": {
+      "city_population": 700000,
+      "metro_population": 2900000,
+      "metro_density_per_km2": 950,
+      "metro_area_km2": 3050,
+      "population_growth_rate_pct": 1.2,
+      "national_city_rank": 3,
+      "share_of_national_population_pct": 7.3,
+      "tall_building_density": 2.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 58,
+      "transit_modal_share_pct": 20,
+      "walking_modal_share_pct": 16,
+      "cycling_modal_share_pct": 4,
+      "rapid_transit_network_km": 79,
+      "street_intersection_density": 95
+    },
+    "economy": {
+      "gdp_per_capita_usd": 62000,
+      "metro_gdp_usd": 180000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 6,
+      "technology_research_intensity": 8,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Mandarin Chinese",
+      "language_family": "Indo-European",
+      "cultural_region": "Pacific Canadian"
+    },
+    "history": {
+      "founding_year": 1886,
+      "historical_era": "Modern",
+      "capital_status": "none",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 27000000,
+      "international_air_destinations": 95,
+      "foreign_born_population_pct": 42,
+      "port_importance": 9,
+      "international_tourist_arrivals_annual": 3000000
+    }
+  },
+  {
+    "identity": {
+      "city": "Chicago",
+      "country": "United States",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 41.88,
+      "elevation_m": 181,
+      "avg_annual_temp_c": 10.7,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": -8.0,
+      "annual_precipitation_mm": 940,
+      "avg_relative_humidity_pct": 71,
+      "annual_sunshine_hours": 2500,
+      "koppen_climate": "Dfa",
+      "distance_to_coast_km": 1100,
+      "terrain_type": "lake plain",
+      "water_setting": "lake"
+    },
+    "scale": {
+      "city_population": 2700000,
+      "metro_population": 9500000,
+      "metro_density_per_km2": 1500,
+      "metro_area_km2": 6300,
+      "population_growth_rate_pct": -0.3,
+      "national_city_rank": 3,
+      "share_of_national_population_pct": 2.8,
+      "tall_building_density": 6.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 62,
+      "transit_modal_share_pct": 26,
+      "walking_modal_share_pct": 8,
+      "cycling_modal_share_pct": 2,
+      "rapid_transit_network_km": 165,
+      "street_intersection_density": 115
+    },
+    "economy": {
+      "gdp_per_capita_usd": 72000,
+      "metro_gdp_usd": 690000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 9,
+      "technology_research_intensity": 7,
+      "tourism_intensity": 7,
+      "logistics_port_intensity": 6
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Spanish",
+      "language_family": "Indo-European",
+      "cultural_region": "Midwestern American"
+    },
+    "history": {
+      "founding_year": 1833,
+      "historical_era": "Modern",
+      "capital_status": "none",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 92000000,
+      "international_air_destinations": 160,
+      "foreign_born_population_pct": 21,
+      "port_importance": 5,
+      "international_tourist_arrivals_annual": 1600000
+    }
+  },
+  {
+    "identity": {
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 34.05,
+      "elevation_m": 71,
+      "avg_annual_temp_c": 18.6,
+      "avg_summer_high_c": 29.0,
+      "avg_winter_low_c": 8.0,
+      "annual_precipitation_mm": 380,
+      "avg_relative_humidity_pct": 60,
+      "annual_sunshine_hours": 3250,
+      "koppen_climate": "Csa",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal basin/hills",
+      "water_setting": "ocean"
+    },
+    "scale": {
+      "city_population": 3900000,
+      "metro_population": 13000000,
+      "metro_density_per_km2": 1000,
+      "metro_area_km2": 13000,
+      "population_growth_rate_pct": -0.2,
+      "national_city_rank": 2,
+      "share_of_national_population_pct": 3.9,
+      "tall_building_density": 5.0
+    },
+    "urban_form": {
+      "car_modal_share_pct": 74,
+      "transit_modal_share_pct": 11,
+      "walking_modal_share_pct": 11,
+      "cycling_modal_share_pct": 1,
+      "rapid_transit_network_km": 34,
+      "street_intersection_density": 85
+    },
+    "economy": {
+      "gdp_per_capita_usd": 85000,
+      "metro_gdp_usd": 1100000000000,
+      "manufacturing_intensity": 5,
+      "finance_intensity": 7,
+      "technology_research_intensity": 9,
+      "tourism_intensity": 10,
+      "logistics_port_intensity": 9
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Spanish",
+      "language_family": "Indo-European",
+      "cultural_region": "Southern Californian"
+    },
+    "history": {
+      "founding_year": 1781,
+      "historical_era": "Modern",
+      "capital_status": "none",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 87000000,
+      "international_air_destinations": 150,
+      "foreign_born_population_pct": 34,
+      "port_importance": 9,
+      "international_tourist_arrivals_annual": 5500000
+    }
+  },
+  {
+    "identity": {
+      "city": "San Francisco",
+      "country": "United States",
+      "region": "Americas",
+      "subregion": "Northern America"
+    },
+    "environment": {
+      "latitude": 37.77,
+      "elevation_m": 16,
+      "avg_annual_temp_c": 14.1,
+      "avg_summer_high_c": 22.0,
+      "avg_winter_low_c": 7.0,
+      "annual_precipitation_mm": 600,
+      "avg_relative_humidity_pct": 75,
+      "annual_sunshine_hours": 3070,
+      "koppen_climate": "Csb",
+      "distance_to_coast_km": 0,
+      "terrain_type": "coastal hills",
+      "water_setting": "bay/ocean"
+    },
+    "scale": {
+      "city_population": 810000,
+      "metro_population": 4600000,
+      "metro_density_per_km2": 1800,
+      "metro_area_km2": 2550,
+      "population_growth_rate_pct": -0.5,
+      "national_city_rank": 17,
+      "share_of_national_population_pct": 1.4,
+      "tall_building_density": 5.5
+    },
+    "urban_form": {
+      "car_modal_share_pct": 35,
+      "transit_modal_share_pct": 34,
+      "walking_modal_share_pct": 25,
+      "cycling_modal_share_pct": 3,
+      "rapid_transit_network_km": 62,
+      "street_intersection_density": 145
+    },
+    "economy": {
+      "gdp_per_capita_usd": 145000,
+      "metro_gdp_usd": 670000000000,
+      "manufacturing_intensity": 2,
+      "finance_intensity": 10,
+      "technology_research_intensity": 10,
+      "tourism_intensity": 9,
+      "logistics_port_intensity": 7
+    },
+    "culture": {
+      "primary_language": "English",
+      "secondary_language": "Chinese",
+      "language_family": "Indo-European",
+      "cultural_region": "Northern Californian"
+    },
+    "history": {
+      "founding_year": 1776,
+      "historical_era": "Modern",
+      "capital_status": "none",
+      "former_capital": false
+    },
+    "connectivity": {
+      "airport_passengers_annual": 57000000,
+      "international_air_destinations": 125,
+      "foreign_born_population_pct": 34,
+      "port_importance": 7,
+      "international_tourist_arrivals_annual": 1800000
+    }
+  }
+]

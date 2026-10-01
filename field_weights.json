@@ -1,0 +1,251 @@
+{
+  "category_weights": {
+    "environment": 0.18,
+    "scale": 0.15,
+    "urban_form": 0.18,
+    "economy": 0.15,
+    "culture": 0.16,
+    "history": 0.08,
+    "connectivity": 0.1
+  },
+  "field_config": {
+    "environment": {
+      "latitude": {
+        "weight": 0.08,
+        "type": "absolute_distance",
+        "sensitivity": 22.0
+      },
+      "elevation_m": {
+        "weight": 0.06,
+        "type": "absolute_distance",
+        "sensitivity": 700.0
+      },
+      "avg_annual_temp_c": {
+        "weight": 0.14,
+        "type": "absolute_distance",
+        "sensitivity": 9.0
+      },
+      "avg_summer_high_c": {
+        "weight": 0.08,
+        "type": "absolute_distance",
+        "sensitivity": 10.0
+      },
+      "avg_winter_low_c": {
+        "weight": 0.08,
+        "type": "absolute_distance",
+        "sensitivity": 11.0
+      },
+      "annual_precipitation_mm": {
+        "weight": 0.1,
+        "type": "log_ratio",
+        "sensitivity": 0.8
+      },
+      "avg_relative_humidity_pct": {
+        "weight": 0.07,
+        "type": "percentage_distance",
+        "sensitivity": 40.0
+      },
+      "annual_sunshine_hours": {
+        "weight": 0.06,
+        "type": "absolute_distance",
+        "sensitivity": 900.0
+      },
+      "koppen_climate": {
+        "weight": 0.14,
+        "type": "koppen_hierarchy"
+      },
+      "distance_to_coast_km": {
+        "weight": 0.07,
+        "type": "log_ratio",
+        "sensitivity": 1.1
+      },
+      "terrain_type": {
+        "weight": 0.06,
+        "type": "similarity_matrix",
+        "matrix": "terrain"
+      },
+      "water_setting": {
+        "weight": 0.06,
+        "type": "similarity_matrix",
+        "matrix": "water"
+      }
+    },
+    "scale": {
+      "city_population": {
+        "weight": 0.1,
+        "type": "log_ratio",
+        "sensitivity": 0.8
+      },
+      "metro_population": {
+        "weight": 0.2,
+        "type": "log_ratio",
+        "sensitivity": 0.75
+      },
+      "metro_density_per_km2": {
+        "weight": 0.18,
+        "type": "log_ratio",
+        "sensitivity": 0.8
+      },
+      "metro_area_km2": {
+        "weight": 0.1,
+        "type": "log_ratio",
+        "sensitivity": 0.9
+      },
+      "population_growth_rate_pct": {
+        "weight": 0.08,
+        "type": "absolute_distance",
+        "sensitivity": 2.5
+      },
+      "national_city_rank": {
+        "weight": 0.1,
+        "type": "log_rank_distance",
+        "sensitivity": 0.8
+      },
+      "share_of_national_population_pct": {
+        "weight": 0.1,
+        "type": "percentage_distance",
+        "sensitivity": 25.0
+      },
+      "tall_building_density": {
+        "weight": 0.14,
+        "type": "log_ratio",
+        "sensitivity": 0.9
+      }
+    },
+    "urban_form": {
+      "car_modal_share_pct": {
+        "weight": 0.22,
+        "type": "percentage_distance",
+        "sensitivity": 45.0
+      },
+      "transit_modal_share_pct": {
+        "weight": 0.22,
+        "type": "percentage_distance",
+        "sensitivity": 35.0
+      },
+      "walking_modal_share_pct": {
+        "weight": 0.14,
+        "type": "percentage_distance",
+        "sensitivity": 25.0
+      },
+      "cycling_modal_share_pct": {
+        "weight": 0.1,
+        "type": "percentage_distance",
+        "sensitivity": 20.0
+      },
+      "rapid_transit_network_km": {
+        "weight": 0.16,
+        "type": "log_ratio",
+        "sensitivity": 1.0
+      },
+      "street_intersection_density": {
+        "weight": 0.16,
+        "type": "log_ratio",
+        "sensitivity": 0.75
+      }
+    },
+    "economy": {
+      "gdp_per_capita_usd": {
+        "weight": 0.18,
+        "type": "log_ratio",
+        "sensitivity": 0.7
+      },
+      "metro_gdp_usd": {
+        "weight": 0.16,
+        "type": "log_ratio",
+        "sensitivity": 0.85
+      },
+      "manufacturing_intensity": {
+        "weight": 0.13,
+        "type": "percentage_distance",
+        "sensitivity": 0.65
+      },
+      "finance_intensity": {
+        "weight": 0.13,
+        "type": "percentage_distance",
+        "sensitivity": 0.65
+      },
+      "technology_research_intensity": {
+        "weight": 0.14,
+        "type": "percentage_distance",
+        "sensitivity": 0.65
+      },
+      "tourism_intensity": {
+        "weight": 0.13,
+        "type": "percentage_distance",
+        "sensitivity": 0.65
+      },
+      "logistics_port_intensity": {
+        "weight": 0.13,
+        "type": "percentage_distance",
+        "sensitivity": 0.65
+      }
+    },
+    "culture": {
+      "primary_language": {
+        "weight": 0.3,
+        "type": "language_similarity"
+      },
+      "secondary_language": {
+        "weight": 0.1,
+        "type": "language_similarity"
+      },
+      "language_family": {
+        "weight": 0.25,
+        "type": "language_family_hierarchy"
+      },
+      "cultural_region": {
+        "weight": 0.35,
+        "type": "similarity_matrix",
+        "matrix": "cultural_region"
+      }
+    },
+    "history": {
+      "founding_year": {
+        "weight": 0.25,
+        "type": "historical_date_distance"
+      },
+      "historical_era": {
+        "weight": 0.3,
+        "type": "historical_era"
+      },
+      "capital_status": {
+        "weight": 0.25,
+        "type": "similarity_matrix",
+        "matrix": "capital_status"
+      },
+      "former_capital": {
+        "weight": 0.2,
+        "type": "boolean_match",
+        "mismatch_score": 0.35
+      }
+    },
+    "connectivity": {
+      "airport_passengers_annual": {
+        "weight": 0.22,
+        "type": "log_ratio",
+        "sensitivity": 0.85
+      },
+      "international_air_destinations": {
+        "weight": 0.22,
+        "type": "log_ratio",
+        "sensitivity": 0.85
+      },
+      "foreign_born_population_pct": {
+        "weight": 0.2,
+        "type": "percentage_distance",
+        "sensitivity": 30.0
+      },
+      "port_importance": {
+        "weight": 0.16,
+        "type": "percentage_distance",
+        "sensitivity": 0.7
+      },
+      "international_tourist_arrivals_annual": {
+        "weight": 0.2,
+        "type": "log_ratio",
+        "sensitivity": 0.9
+      }
+    }
+  }
+}
